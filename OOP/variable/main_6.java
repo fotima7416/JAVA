@@ -1,4 +1,6 @@
-import transport.main_7;
+package OOP.variable;
+
+import OOP.variable.transport.main_7;
 
 public class main_6 {
     public static void main(String[] args){

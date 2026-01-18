@@ -1,3 +1,5 @@
+package OOP.variable;
+
 public class main_3 {
     public static void main(String[] args){
        final int son=20;

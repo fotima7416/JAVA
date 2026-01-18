@@ -1,4 +1,4 @@
-package transport;
+package OOP.variable.transport;
 
 public class main_7 {
     public static void main(String[] args) {

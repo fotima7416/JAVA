@@ -1,3 +1,5 @@
+package OOP.variable;
+
 public class main_1 {
     public static void main(String[] args) {
         // print: kursorni shu yerda qoldiradi
