@@ -6,6 +6,7 @@ public class Main1 {
         int[] numArray = {1, 4, 6, 8, 2};
         for (int n : numArray) {
             System.out.print(n+"\t");
+            System.out.println();
         }
     }
 }
