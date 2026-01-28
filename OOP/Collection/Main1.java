@@ -7,6 +7,7 @@ public class Main1 {
         for (int n : numArray) {
             System.out.print(n+"\t");
             System.out.println();
+            System.out.println();
         }
     }
 }
